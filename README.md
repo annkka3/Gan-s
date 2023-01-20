@@ -1,8 +1,8 @@
 # Gan-s
 
-Generative Adversarial Networks (GANs) Specialization
+# Generative Adversarial Networks (GANs) Specialization
 
-WHAT YOU WILL LEARN
+## WHAT YOU WILL LEARN
 
 Understand GAN components, build basic GANs using PyTorch and advanced DCGANs using convolutional layers, control your GAN and build conditional GAN
 
@@ -10,7 +10,7 @@ Compare generative models, use FID method to assess GAN fidelity and diversity, 
 
 Use GANs for data augmentation and privacy preservation, survey GANs applications, and examine and build Pix2Pix and CycleGAN for image translation
 
-SKILLS YOU WILL GAIN
+## SKILLS YOU WILL GAIN
 
 Generator
 Image-to-Image Translation
@@ -26,25 +26,25 @@ Bias in GANs
 StyleGANs
 About this Specialization
 
-About GANs
+## About GANs
 
 Generative Adversarial Networks (GANs) are powerful machine learning models capable of generating realistic image, video, and voice outputs.
 
 Rooted in game theory, GANs have wide-spread application: from improving cybersecurity by fighting against adversarial attacks and anonymizing data to preserve privacy to generating state-of-the-art images, colorizing black and white images, increasing image resolution, creating avatars, turning 2D images to 3D, and more.
 
-About this Specialization
+## About this Specialization
 
 The DeepLearning.AI Generative Adversarial Networks (GANs) Specialization provides an exciting introduction to image generation with GANs, charting a path from foundational concepts to advanced techniques through an easy-to-understand approach. It also covers social implications, including bias in ML and the ways to detect it, privacy preservation, and more.
 
 Build a comprehensive knowledge base and gain hands-on experience in GANs. Train your own model using PyTorch, use it to create images, and evaluate a variety of advanced GANs.
 
-About you
+## About you
 
 This Specialization is for software engineers, students, and researchers from any field, who are interested in machine learning and want to understand how GANs work.
 
 This Specialization provides an accessible pathway for all levels of learners looking to break into the GANs space or apply GANs to their own projects, even without prior familiarity with advanced math and machine learning research.
 
-Applied Learning Project
+## Applied Learning Project
 
 Course 1: In this course, you will understand the fundamental components of GANs, build a basic GAN using PyTorch, use convolutional layers to build advanced DCGANs that processes images, apply W-Loss function to solve the vanishing gradient problem, and learn how to effectively control your GANs and build conditional GANs.
 
