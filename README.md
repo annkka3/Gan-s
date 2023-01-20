@@ -1,4 +1,3 @@
-# Gan-s
 
 # Generative Adversarial Networks (GANs) Specialization
 
